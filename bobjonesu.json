@@ -1,0 +1,46 @@
+{
+  "className": "bobjonesu",
+  "key": "Bob Jones U",
+  "images": [
+    {
+      "source": "img010.jpg",
+      "caption": "Bob Jones U."
+    },
+    {
+      "source": "img011.jpg",
+      "caption": "Bob Jones U."
+    },
+    {
+      "source": "img012.jpg",
+      "caption": "Bob Jones U."
+    },
+    {
+      "source": "img016.jpg",
+      "caption": "Bob Jones U."
+    },
+    {
+      "source": "img092.jpg",
+      "caption": "Bob Jones U"
+    },
+    {
+      "source": "img244.jpg",
+      "caption": "Camilla Babson Bob Jones U."
+    },
+    {
+      "source": "img249.jpg",
+      "caption": "Bob Jones U"
+    },
+    {
+      "source": "img255.jpg",
+      "caption": "Bob Jones U"
+    },
+    {
+      "source": "img256.jpg",
+      "caption": "Dru Ferguson Bob Jones U."
+    },
+    {
+      "source": "img259.jpg",
+      "caption": "Bob Jones U"
+    }
+  ]
+}

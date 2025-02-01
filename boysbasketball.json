@@ -1,0 +1,18 @@
+{
+  "className": "boysbasketball",
+  "key": "Boys Basketball",
+  "images": [
+    {
+      "source": "img001.jpg",
+      "caption": "Boys Basketball All Conf"
+    },
+    {
+      "source": "img109.jpg",
+      "caption": "Boys Basketball Conf Champs"
+    },
+    {
+      "source": "img232.jpg",
+      "caption": "Boys Basketball Dist"
+    }
+  ]
+}

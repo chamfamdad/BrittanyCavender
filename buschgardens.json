@@ -1,0 +1,46 @@
+{
+  "className": "buschgardens",
+  "key": "Busch Gardens",
+  "images": [
+    {
+      "source": "img025.jpg",
+      "caption": "Busch Gardens Macaw Plucks a Peanut"
+    },
+    {
+      "source": "img026.jpg",
+      "caption": "Busch Gardens Flamingos Nesting"
+    },
+    {
+      "source": "img027.jpg",
+      "caption": "Busch Gardens Whooper Swans"
+    },
+    {
+      "source": "img028.jpg",
+      "caption": "Busch Gardens Posing Macaws"
+    },
+    {
+      "source": "img053.jpg",
+      "caption": "Busch Gardens Fish Scene"
+    },
+    {
+      "source": "img054.jpg",
+      "caption": "Busch Gardens Glass Bottom Boat"
+    },
+    {
+      "source": "img055.jpg",
+      "caption": "Busch Gardens Inside View"
+    },
+    {
+      "source": "img056.jpg",
+      "caption": "Busch Gardens Underwater Garden"
+    },
+    {
+      "source": "img057.jpg",
+      "caption": "Busch Gardens Fish"
+    },
+    {
+      "source": "img058.jpg",
+      "caption": "Busch Gardens Adolph Busch Space Frame"
+    }
+  ]
+}

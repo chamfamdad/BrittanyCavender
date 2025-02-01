@@ -18,7 +18,9 @@ key_words = [
     'Amy Jo Gussom',
     'Busch Gardens',
     'Boys Basketball',
-    'Amy Elmore'
+    'Amy Elmore',
+    'Jeremy',
+    'Ick'
 ]
 
 

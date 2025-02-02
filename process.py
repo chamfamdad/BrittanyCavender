@@ -70,7 +70,7 @@ def write_html(filename, map):
     with open(filename, 'w') as file:
         write_header(file)
         write_links(file, map)
-        file.write('<div id="slideshow" class="container p2"></div>\n\n')
+        file.write('<div id="slideshow" class="container mt-5"></div>\n\n')
         write_script(file)
         write_footer(file)
 
@@ -113,8 +113,8 @@ def write_json(key, images):
 
 def write_links(file, map):
 
-    file.write('<div class="dropdown-center">\n')
-    file.write('  <button class="btn btn-secondary btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">\n')
+    file.write('<div class="container fixed-top text-center mt-1">\n')
+    file.write('  <button class="btn btn-light btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">\n')
     file.write('    Select a Category\n')           
     file.write('  </button>\n')
     file.write('  <ul class="dropdown-menu">\n')
